@@ -7,8 +7,6 @@ This project is a tutorial for Github Desktop. The tutorial aims to teach you Gi
 
 --------------------
 Bappy Golder <br/>
-<a href="http://bappygolder.com/">Website</a>  |  
-LinkedIn: <a href="https://github.com/bappygolder">LinkedIn</a> |  
-Twitter: <a href="https://au.linkedin.com/in/bappygolder">Twitter</a>
+<a href="http://bappygolder.com/">Website</a>  |  <a href="https://github.com/bappygolder">LinkedIn</a> |  <a href="https://au.linkedin.com/in/bappygolder">Twitter</a>
 
 
