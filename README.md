@@ -4,10 +4,11 @@ This project is a tutorial for Github Desktop. The tutorial aims to teach you Gi
 
 <strong> Bappy </strong> (Buppy)
 
+
 --------------------
 Bappy Golder <br/>
-Web: <a href="http://bappygolder.com/">BappyGolder.com</a> <br/>
-Git: <a href="https://github.com/bappygolder">@BappyGolder</a> <br/>
-Twitter: <a href="https://twitter.com/BappyGolder">@BappyGolder</a> <br/>
+<a href="http://bappygolder.com/">Website</a>  |  
+LinkedIn: <a href="https://github.com/bappygolder">LinkedIn</a> |  
+Twitter: <a href="https://twitter.com/BappyGolder">Twitter</a>
 
 
