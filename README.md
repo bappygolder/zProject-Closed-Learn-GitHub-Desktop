@@ -12,6 +12,8 @@ This project is a tutorial for Github Desktop. The tutorial aims to teach you Gi
 
 You are now ready to start learniing and using Git, GitHub & GitHub Desktop. 
 
+Work In Progress, more to be continued . . .
+
 <strong> Bappy </strong> (Buppy)
 
 
