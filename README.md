@@ -7,23 +7,23 @@ https://guides.github.com/features/mastering-markdown/
 #Learn-GitHub-Desktop
 
 ##About
-This project is a tutorial for Github Desktop. The tutorial aims to teach you GitHub Desktop As fast as possible. Along the way you will get up and running with version control systems and Git. Please note Git, GitHub & GitHub Desktop (or GitHub for Desktop) are not the same. Feel free to contribute, update and get in touch.
+This project is a tutorial for Github Desktop. The tutorial aims to teach you GitHub Desktop As fast as possible. Along the way you will get up and running with version control systems and Git. Please note GitHub Desktop is different than Git or GitHub. Feel free to contribute, update and get in touch.
 
-##Preparation
-1. Download and install [Git Desktop](https://desktop.github.com/) 
-2. If you don't already have one. Make a [GitHub](https://github.com/) account. 
+## Preparation
+1. If you don't already have one. Make a [GitHub](https://github.com/) account. 
+2. Download and install [Git Desktop](https://desktop.github.com/) 
 3. During installation complete the prompted setup process to connect with GitHub acount. 
 4. Launch Git Desktop and finish the onboarding tutorial.
-5. Connect with [Bappy](https://github.com/bappygolder) on GitHub. If you have any questions or problem with GitHub Desktop feel free to ask.  
+5. Optionally connect with [me on GitHub](https://github.com/bappygolder) and if you have any questions or problem with GitHub Desktop feel free to ask.  
 
 You are now ready to start learniing and using Git, GitHub & GitHub Desktop. 
 
-##Resources
+## Optional Resources
 1. Understand & learn how [Forking works in Git](https://guides.github.com/activities/forking/index.html). 
 2. Learn about various [methods of collaboration](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) using Git.
 
 
-Work In Progress, more to be continued . . .
+Work In Progress . . .
 
 <strong> Bappy </strong> (Buppy)
 
