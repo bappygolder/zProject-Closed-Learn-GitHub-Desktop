@@ -4,6 +4,9 @@ https://help.github.com/articles/markdown-basics/
 https://guides.github.com/features/mastering-markdown/
 -->
 
+# Project Closed
+This project is no longer continued. It is now moved to [this new location](https://github.com/bappygolder/CodeLibrary/blob/master/GitHub-Desktop.md)
+
 #Learn-GitHub-Desktop
 
 ##About
