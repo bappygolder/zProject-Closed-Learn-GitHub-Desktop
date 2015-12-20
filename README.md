@@ -19,6 +19,7 @@ This project is a tutorial for Github Desktop. The tutorial aims to teach you Gi
 You are now ready to start learniing and using Git, GitHub & GitHub Desktop. 
 
 ## Optional Resources
+0. Extend Git Learning With [Atlasians' Tutorials](https://www.atlassian.com/git/tutorials/)
 1. Understand & learn how [Forking works in Git](https://guides.github.com/activities/forking/index.html). 
 2. Learn about various [methods of collaboration](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) using Git.
 
